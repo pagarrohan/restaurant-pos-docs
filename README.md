@@ -25,17 +25,20 @@ Welcome to the official documentation for the **Restaurant POS SaaS App** — a 
 
 ## 📦 Core Modules
 
-- [Dashboard](modules/Dashboard.md)
-- [Order Management](modules/OrderManagement.md)
-- [Billing System](modules/Billing.md)
-- [Product Management](modules/ProductManagement.md)
-- [Category Management](modules/CategoryManagement.md)
-- [Table Management](modules/TableManagement.md)
-- [Printer Settings (KOT, Receipts)](modules/PrinterSettings.md)
-- [Staff & Role Management](modules/StaffManagement.md)
-- [Kitchen Display System (KDS)](modules/KitchenDisplaySystem.md)
-- [Reports & Analytics](modules/Reports.md)
-- [Daily Sales Tracking](modules/DailySales.md)
-- [Settings & Preferences](modules/Settings.md)
-- [Subscription Management](modules/Subscription.md)
+* [Home](/README.md)
+* [Overview](guide/overview.md)
+* [Project Setup](guide/setup.md)
+* [Architecture](guide/architecture.md)
+
+* Modules
+  * [Billing](guide/modules/billing.md)
+  * [Kitchen Order Ticket (KOT)](guide/modules/kot.md)
+  * [Settings & Preferences](guide/modules/settings.md)
+  * [Table Management](guide/modules/tables.md)
+  * [Inventory Management](guide/modules/inventory.md)
+  * [Reports & Analytics](guide/modules/reports.md)
+  * [Users & Roles](guide/modules/users.md)
+  * [Data Sync](guide/modules/sync.md)
+  * [Subscription & Licensing](guide/modules/subscription.md)
+
 
