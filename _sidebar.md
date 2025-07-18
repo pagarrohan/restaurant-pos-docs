@@ -1,7 +1,6 @@
-* [Home](/README.md)
-* [Overview](/guide/overview.md)
-* [Project Setup](/guide/setup.md)
-* [Architecture](/guide/architecture.md)
+* [Home](README.md)
+* [Overview](overview.md)
+* [Architecture](architecture.md)
 
 * Modules
   * [Billing](guide/modules/billing.md)
