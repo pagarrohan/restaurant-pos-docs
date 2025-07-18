@@ -1,5 +1,5 @@
 * [Home](/README.md)
-* [Overview](guide/overview.md)
+* [Overview](/guide/overview.md)
 * [Project Setup](guide/setup.md)
 * [Architecture](guide/architecture.md)
 
