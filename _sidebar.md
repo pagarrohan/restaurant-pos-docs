@@ -1,7 +1,7 @@
 * [Home](/README.md)
 * [Overview](/guide/overview.md)
-* [Project Setup](guide/setup.md)
-* [Architecture](guide/architecture.md)
+* [Project Setup](/guide/setup.md)
+* [Architecture](/guide/architecture.md)
 
 * Modules
   * [Billing](guide/modules/billing.md)
@@ -13,3 +13,4 @@
   * [Users & Roles](guide/modules/users.md)
   * [Data Sync](guide/modules/sync.md)
   * [Subscription & Licensing](guide/modules/subscription.md)
+$
